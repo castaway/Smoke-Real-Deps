@@ -1,0 +1,26 @@
+=head1 NAME
+
+Smoke::Real::Deps - Test a perl release against its actual stated dependencies
+
+=head1 TODO
+
+=over
+
+=item *
+
+Convert into module
+
+=item *
+
+Check / improve metacpan API use with actual folks from #metacpan
+
+=item *
+
+Integrate into CPAN::Reporter::Smoker, possibly by using Aspect? (Muhahaha!)
+
+=item *
+
+Take over the world! (Also, write real docs)
+
+=back
+
